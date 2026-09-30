@@ -1,0 +1,6 @@
+{
+  "name": "Wafa Weather",
+  "description": "Real-time weather application developed by Mehedi364 / Md. Mehedi Hasan with Bangla and English support, 7-day forecast, hourly forecast, and offline caching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
